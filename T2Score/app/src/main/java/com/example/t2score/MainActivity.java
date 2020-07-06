@@ -61,8 +61,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void resetButton(View view) {
-        Bscore = 0;
-        Bscore = 0;
         displayForTeamA(0);
         displayForTeamB(0);
 
