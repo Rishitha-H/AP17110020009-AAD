@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">T6</string>
+
+
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid email</string>
+    <string name="mobileerror">Enter a valid mobile</string>
+    <string name="passworderror">Enter a valid password with special characters</string>
+</resources>
